@@ -1,0 +1,21 @@
+{
+  "pluginName": "插件中心",
+  "version": "1.0.0",
+  "author": "Keith",
+  "homepage": "https://bbt.dei2.com",
+  "logo": "logo.png",
+  "main": "index.html",
+  "description": "插件管理中心，下载、管理",
+  "preload": "",
+  "features": {
+    "searchable": {
+      "cmds": [
+        "Plugins",
+        "插件中心"
+      ],
+      "description": "插件中心，下载、管理"
+    },
+    "filterable": true
+  },
+  "id": "bbtlovesyou"
+}
